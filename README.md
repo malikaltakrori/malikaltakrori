@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @malikaltakrori
-- 👀 I am a PhD candidate at McGill-cs and Mila
+- 👋 Hi, I’m Malik Altakrori
+- 👀 I am a PhD candidate at McGill-cs and Mila (soon to be Malik Altakrori, PhD :) )
 - 🌱 I’m currently learning about writing style, and interested in evaluation techniques for authorship identification and obfuscation. 
 - 📫 How to reach me? I am on LinkedIn! 
 
