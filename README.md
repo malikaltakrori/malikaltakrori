@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Malik Altakrori
-- 👀 I am a PhD candidate at McGill-cs and Mila (soon to be Malik Altakrori, PhD :) )
+- 💻 I am a Research Scientist at IBM Research AI - UAE/Abu Dhabi. Training LLMs for Arabic dialects. 
+- 👀 I completed my PhD at McGill-cs and Mila, working on NLP.  
 - 🌱 I’m currently learning about writing style, and interested in evaluation techniques for authorship identification and obfuscation. 
 - 📫 How to reach me? I am on LinkedIn! 
 
